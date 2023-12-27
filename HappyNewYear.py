@@ -243,7 +243,7 @@ def main(
     
     
     st.sidebar.title('Happy New Year!')
-    photo = st.sidebar.selectbox('Тут все!:',  ['Тут все', 'Маргарита', 'Егор', 'Ангелина', 'Лёша', 'Наташа', 'Чубакка'])
+    photo = st.sidebar.selectbox('Тут все!:',  ['Тут все', 'Паша', 'Юля', 'Лана', 'Лёша', 'Наташа', 'Чубакка'])
     if photo == 'Тут все':
         st.sidebar.image('HB2.jpg')
     if photo == 'Паша':
