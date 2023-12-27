@@ -284,6 +284,12 @@ def main(
         st.image('health.jpg', width=700)
         time.sleep(2.5)
 
+    if st.button("Атрымлівайце больш эмоцый! 🤣",  key=4):     
+        st.balloons()
+        st.image('emotions.jpg', width=700)
+        time.sleep(2.5)
+
+
 
 if __name__ == '__main__':
     main(rain)
