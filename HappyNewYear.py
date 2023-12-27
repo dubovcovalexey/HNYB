@@ -27,7 +27,7 @@ def set_png_as_page_bg(png_file):
     return
 
 
-set_png_as_page_bg('PHONE2.jpg')
+set_png_as_page_bg('PHONE3.jpg')
 rain(
     emoji="❆",
     font_size=30,
