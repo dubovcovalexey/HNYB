@@ -29,7 +29,7 @@ def set_png_as_page_bg(png_file):
 
 set_png_as_page_bg('PHONE.jpg')
 rain(
-    emoji="🥳",
+    emoji="❆",
     font_size=30,
     falling_speed=5,
     animation_length="infinite",
